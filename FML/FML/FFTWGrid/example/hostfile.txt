@@ -1,0 +1,5 @@
+euclid2.uio.no
+euclid3.uio.no
+euclid4.uio.no
+euclid5.uio.no
+euclid6.uio.no
